@@ -1,0 +1,12 @@
+.global-actions {
+  padding: 15px;
+}
+
+table .btn{
+  padding: 2px 7px;
+  font-size: 80%;
+}
+
+button.btn-rightOf-inline {
+  margin-left: 7px;
+}
